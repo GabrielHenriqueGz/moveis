@@ -5,3 +5,7 @@ h1 {
 li {
 	font-family: arial;
 }
+body{
+	width: 50%;
+	margin: auto;
+}
